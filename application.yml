@@ -5,26 +5,26 @@ eureka:
       
 ---
 spring:
-  profiles: subject
+  profiles: lab-4-adjective
 words: I,You,He,She,It
 
 ---
 spring:
-  profiles: verb
+  profiles: lab-4-verb
 words: ran,knew,had,saw,bought,car
 
 ---
 spring:
-  profiles: article
+  profiles: lab-4-article
 words: a,the,dum
 
 ---
 spring:
-  profiles: adjective
+  profiles: lab-4-adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely,sim
 
 ---
 spring:
-  profiles: noun
+  profiles: lab-4-noun
 words: boat,book,vote,seat,backpack,partition,groundhog,herb      
       
